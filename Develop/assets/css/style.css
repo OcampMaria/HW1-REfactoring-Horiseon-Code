@@ -34,11 +34,12 @@ header ul {
   list-style-type: none;
 }
 
-
+/*deleted heading class and div*/
 ul li {
   display: inline-block;
   margin-left: 25px;
 }
+
 
 a {
   color: #ffffff;
@@ -48,6 +49,11 @@ a {
 p {
   font-size: 16px;
 }
+
+
+/* Trying to GET RID of HERO class*/
+
+
 
 .hero {
   height: 800px;
@@ -132,6 +138,7 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
+
 
 .search-engine-optimization {
   margin-bottom: 20px;
