@@ -46,7 +46,8 @@ ul li {
   margin-left: 25px;
 }
 
-.hero {
+/*changed class name*/
+.first-image {
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
@@ -55,15 +56,16 @@ ul li {
   background-position: center;
 }
 
-/******************************************************************************/
+
+/*replaced class for a main selector*/
 main {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
-/*Merged all three classes (they have the same characteristics).*/
-/*Merged css for imges under content and h2s*/
+/*Merged all three classes undersection (they had the same characteristics). 
+Merged css for imges under content and h2s*/
 section {
   margin-bottom: 20px;
   padding: 50px;
@@ -82,6 +84,7 @@ main section h2 {
   font-size: 36px;
 }
 
+/*changed class names*/
 .image {
   float: left;
   margin-right: 25px;
@@ -101,7 +104,8 @@ p {
   font-size: 16px;
 }
 
-/***********************************************************************/
+
+/*changed classes and replaced with selectors*/
 aside {
   margin-right: 20px;
   padding: 20px;
