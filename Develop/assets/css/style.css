@@ -2,9 +2,11 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+
 }
 
-/* deleted the heading class and added the header selector*/
+
+/* deleted the heading class and added the header selector. Added Padding*/
 header {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -18,10 +20,13 @@ h1 {
   font-size: 48px;
 }
 
-/* merged body with .header since both had the same color format*/
 
-header h1 .seo, body {
+/* merged body with .header since both had the same color format*/
+header h1 .seo{
   color: #d9dcd6;
+}
+body {
+  background-color: #d9dcd6
 }
 
 /*merged the two header ul list-style-type*/
@@ -69,7 +74,7 @@ p {
   margin-left: 25px;
 }
 
-.content {
+main {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
