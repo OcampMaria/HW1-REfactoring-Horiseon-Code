@@ -15,7 +15,7 @@ pip install foobar
 
 
 <p align="center">
-  <img alt="VS Code in action" src="assets/images/HoriseonImage1">
+  <img alt="VS Code in action" src="assets/images/HoriseonImage1.jpg">
 </p>
 
 
