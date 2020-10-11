@@ -1,6 +1,8 @@
-# Horiseon-Refactoring-Update
+# Horiseon - Open Source (Horiseon-Refactoring-Update)
 <br>
-https://img.shields.io/github/license/OcampMaria/Horiseon-Refactoring-Update
+
+![GitHub](https://img.shields.io/github/license/OcampMaria/Horiseon-Refactoring-Update?color=blue&label=GithubPage&style=plastic)
+
 
 opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future
 
