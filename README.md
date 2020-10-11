@@ -1,27 +1,23 @@
 # Horiseon - Open Source (Horiseon-Refactoring-Update)
-A preexisting code from the Horiseon website was refactored to improve its accessibility. The code was improved without changing its functionality. 
- 
- Visual Studio Code was used to refactor the code. an html and a css files were needed to make the aplication work correctly. 
+    A preexisting code from the Horiseon website was refactored to improve its accessibility. The code was improved without changing its functionality. The motivation for refactoring the code was the need to make the aplication more accessible. By doing this, it will help future coders better understad the written code and be able to create further improvements to the website.
 
- Some chanllenges faced while refactoring the code, included a lower understanding for certain Visual Studio Code features. For example, selecting the right elements and selectors to make the aplication look the same as the original code. 
- 
- Some features I hope to implement in the future include to java script and css bootstrap to make the aplication more functional. 
+    Visual Studio Code was used to refactor the code. An html and a css files were used to alter the code and Github pages were used to publish the aplicationon the web. The "Inspect" feature was used to help visualize code and code alterations before making the changes permanent. 
 
-The motivation for refactoring the code was the need to make Horiseon aplication more accessible. By doing this, it will help future coders better understad the code written 
+    Some chanllenges faced while refactoring the code, included a lower understanding for certain Visual Studio Code features at the begining of the refactoring. For example, selecting the right elements and selectors to make the aplication look the same as the original code, took longer since certain elements did not work as anticipated. However, I was able to learn more about it with time and I succesfully used the different features form Visual Studio Code. Some features I hope to implement in the future include to java script and css bootstrap to make the aplication more functional. 
 
- What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? If your project has a lot of features, consider adding a heading called "Features" and listing them here.
+    From working on this project, I learned that there are many ways to refactor code. Different people are going to take different approaches to alter the code without the application loosing its functionality and it does not mean that one person is doing a better job than others. 
 
 ## Installation
+    To be able to work on the Code. The person needs to either clone the Horiseon-Refactoring-Update repo from [Github](https://github.com/OcampMaria). 
+
+
 ```bash
 pip install foobar
 ```
 
 ![Horiseon Website](Develop/assets/images/HoriseonImage1.png?raw=true "Horiseon Website")
 
-<p align="center">
-  <img alt="Horiseon Website" src="./assets/images/HoriseonImage1.png">
-</p>
-
+![Horiseon Website](Develop/assets/images/HoriseonSharedScreenshot.png?raw=true "Horiseon Website")
 
 ## Usage
 ```python
