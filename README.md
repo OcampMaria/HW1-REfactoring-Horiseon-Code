@@ -10,10 +10,12 @@
 ## Installation
 <p>To be able to work on the Code, cloning the Horiseon-Refactoring-Update repo from [Github](https://github.com/OcampMaria) might be necessary. Once cloned into a personal or local macbhine, the code will be available to use. When finished refactoring the files can be pushed or uploaded to Github. Once there, the aplicaition can become live through Github Pages. </p>
 
-<p>The application once ready should look like the images below. 
+<p>The application once ready should look like the images below. </p>
+
+
 ![Horiseon Website](Develop/assets/images/HoriseonImage1.png?raw=true "Horiseon Website")
+
 ![Horiseon Website](Develop/assets/images/HoriseonSharedScreenshot.png?raw=true "Horiseon Website")
-</p>
 
 
 ## Usage
