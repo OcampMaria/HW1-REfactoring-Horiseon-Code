@@ -15,7 +15,7 @@
 
 ![Horiseon Website](Develop/assets/images/HoriseonImage1.png?raw=true "Horiseon Website")
 
-![Horiseon Website](Develop/assets/images/HoriseonSharedScreenshot.png?raw=true "Horiseon Website")
+![Horiseon Website](Develop/assets/images/SharedScreenshot.png?raw=true "Horiseon Website")
 
 
 ## Usage
