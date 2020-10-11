@@ -12,12 +12,8 @@ title and a short description explaining the what, why, and how.
 ```bash
 pip install foobar
 ```
-<img
-src=assets/images/HoriseonImage1.jpg” 
-raw=true 
-alt=“Subject 
-Pronouns” style=“margin-right: 10px;”
-/>
+<img src=assets/images/HoriseonImage1.jpg” raw=true alt=“Horiseon”/>
+
 
 
 ## Usage
