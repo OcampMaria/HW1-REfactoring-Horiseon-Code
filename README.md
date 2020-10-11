@@ -12,10 +12,13 @@ title and a short description explaining the what, why, and how.
 ```bash
 pip install foobar
 ```
-<p align=Center>
-![Horiseon Website](./Develop/assets/images/assets/images/HoriseonImage1?raw=true "Horiseon Website")
-![Horiseon Website](./Develop/assets/images/assets/images/HoriseonImage2?raw=true "Horiseon Website")
-</p>
+<img
+src=assets/images/HoriseonImage1.jpg” 
+raw=true 
+alt=“Subject 
+Pronouns” style=“margin-right: 10px;”
+/>
+
 
 ## Usage
 ```python
