@@ -1,8 +1,5 @@
 # Horiseon - Open Source (Horiseon-Refactoring-Update)
 
-
-![GitHub](https://img.shields.io/github/license/https://github.com/OcampMaria/Horiseon-Refactoring-Update?color=blue&label=GithubPage&style=plastic)
-
 opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future
 
 title and a short description explaining the what, why, and how.
@@ -13,6 +10,7 @@ title and a short description explaining the what, why, and how.
 pip install foobar
 ```
 
+![Horiseon Website](./Develop/assets/images/HoriseonImage1.png?raw=true "Horiseon Website")
 
 <p align="center">
   <img alt="VS Code in action" src="./assets/images/HoriseonImage1.jpg">
