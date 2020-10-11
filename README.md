@@ -31,9 +31,9 @@ When the coder has finished refactoring, the files can be pushed or uploaded to 
 <p>The application should look like the images below. </p>
 
 
-![Horiseon Website](Develop/assets/images/HoriseonImage1.png?raw=true "Horiseon Website")
+![Horiseon Website](images/HoriseonImage1.png?raw=true "Horiseon Website")
 
-![Horiseon Website](Develop/assets/images/SharedScreenshot.png?raw=true "Horiseon Website")
+![Horiseon Website](images/SharedScreenshot.png?raw=true "Horiseon Website")
 
 ## Usage
 <p>
