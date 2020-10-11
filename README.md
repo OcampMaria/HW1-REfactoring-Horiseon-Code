@@ -33,7 +33,7 @@ When the coder has finished refactoring, the files can be pushed or uploaded to 
 
 ![Horiseon Website](Develop/images/HoriseonImage1.png?raw=true "Horiseon Website")
 
-![Horiseon Website](Develp/images/SharedScreenshot.png?raw=true "Horiseon Website")
+![Horiseon Website](Develop/images/SharedScreenshot.png?raw=true "Horiseon Website")
 
 ## Usage
 <p>
