@@ -46,11 +46,18 @@ The application can be accessed through the GitHub pages link.
 [w3schools](https://www.w3schools.com/html/)
 [Full Stack Program](https://uclax.bootcampcontent.com/UCLA-Coding-Boot-Camp/ucla-la-fsf-pt-09-2020-u-c/tree/master)
 
-## License
-                    GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+## No License
 
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
- [License](https://choosealicense.com/licenses/gpl-3.0/#)
+This file is for informational purposes only and follows the common naming convention of `LICENSE.md` to make it easy to find. No license is implied.
+
+As explained by [choosealicense.com](https://choosealicense.com/no-permission/), when no license is declared: 
+
+>[This repository] is under exclusive copyright by default. [You cannot] use, copy, distribute, or modify without being at risk of take-downs, shake-downs, or litigation.
+
+---
+
+© 2019 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
+
+
+## Badges
+![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
