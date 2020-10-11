@@ -12,8 +12,11 @@ title and a short description explaining the what, why, and how.
 ```bash
 pip install foobar
 ```
-<img src=assets/images/HoriseonImage1.jpg” raw=true alt=“Horiseon”/>
 
+
+<p align="center">
+  <img alt="VS Code in action" src="https://user-images.githubusercontent.com/1487073/58344409-70473b80-7e0a-11e9-8570-b2efc6f8fa44.png">
+</p>
 
 
 ## Usage
