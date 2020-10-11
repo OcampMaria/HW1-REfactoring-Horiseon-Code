@@ -46,8 +46,7 @@ The application can be accessed through the GitHub pages link.
 [w3schools](https://www.w3schools.com/html/)
 [Full Stack Program](https://uclax.bootcampcontent.com/UCLA-Coding-Boot-Camp/ucla-la-fsf-pt-09-2020-u-c/tree/master)
 
-## License
-# No License
+## No License
 
 This file is for informational purposes only and follows the common naming convention of `LICENSE.md` to make it easy to find. No license is implied.
 
