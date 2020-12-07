@@ -42,22 +42,10 @@ The application can be accessed through the GitHub pages link.
 <p> The application contains three selection buttons on the right top corner of the page. These are placed there for easy access. They will direct the person using the application to the page's three different information sections as needed. 
 </p>
 
-## Credits
-[w3schools](https://www.w3schools.com/html/)
-[Full Stack Program](https://uclax.bootcampcontent.com/UCLA-Coding-Boot-Camp/ucla-la-fsf-pt-09-2020-u-c/tree/master)
-
-## No License
-
-This file is for informational purposes only and follows the common naming convention of `LICENSE.md` to make it easy to find. No license is implied.
-
-As explained by [choosealicense.com](https://choosealicense.com/no-permission/), when no license is declared: 
+## License
+Distributed under the MIT License.
 
 >[This repository] is under exclusive copyright by default. [You cannot] use, copy, distribute, or modify without being at risk of take-downs, shake-downs, or litigation.
 
----
-
-© 2019 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
-
-
-## Badges
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+- - -
+Copyright &copy; 2020 Maria Ocampo. All Rights Reserved.
