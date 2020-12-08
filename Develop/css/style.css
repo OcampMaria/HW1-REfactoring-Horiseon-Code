@@ -76,6 +76,7 @@ section {
   color: #ffffff;
 }
 
+
 /*deleted classes and replaced for img selector. Merged all three images into main section img*/
 main section img {
   max-height: 200px;
