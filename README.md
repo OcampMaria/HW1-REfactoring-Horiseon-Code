@@ -17,7 +17,7 @@ From working on this project, I learned that there are many ways to refactor cod
 
 ## Installation
 <p>
-To work on the code, cloning the Horiseon-Refactoring-Update repo from [Github](https://github.com/OcampMaria) to a local machine might be necessary.
+To work on the code, cloning the Horiseon-Refactoring-Update repo from GitHub https://github.com/OcampMaria to a local machine might be necessary.
 </p>
 
 <p>
@@ -47,5 +47,5 @@ Distributed under the MIT License.
 
 >[This repository] is under exclusive copyright by default. [You cannot] use, copy, distribute, or modify without being at risk of take-downs, shake-downs, or litigation.
 
-- - -
+
 Copyright &copy; 2020 Maria Ocampo. All Rights Reserved.
