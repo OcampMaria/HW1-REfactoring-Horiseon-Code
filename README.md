@@ -37,7 +37,7 @@ When the coder has finished refactoring, the files can be pushed or uploaded to 
 
 ## Usage
 <p>
-The application can be accessed through the GitHub pages link.
+The application can be accessed through the GitHub pages link: https://ocampmaria.github.io/Horiseon-Refactoring-Update/.
 </p>
 <p> The application contains three selection buttons on the right top corner of the page. These are placed there for easy access. They will direct the person using the application to the page's three different information sections as needed. 
 </p>
